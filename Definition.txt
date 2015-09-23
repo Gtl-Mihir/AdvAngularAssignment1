@@ -1,0 +1,15 @@
+[11:03:23 AM] Rajiv Mehta: Let's create minor app
+[11:03:30 AM] Rajiv Mehta: only login screen
+[11:03:34 AM] Rajiv Mehta: usename password
+[11:04:33 AM] Rajiv Mehta: if I login with user:nosql password:html5 it's shows with alert 'welcome to the hell'
+[11:04:47 AM] Rajiv Mehta: otherwise invalid user
+[11:05:08 AM] Rajiv Mehta: all the development should be in angular
+[11:05:12 AM] Rajiv Mehta: don't share it
+[11:05:17 AM] Rajiv Mehta: but create git account
+[11:05:20 AM] Rajiv Mehta: upload to it
+[11:05:24 AM] Rajiv Mehta: and paste the link here
+
+[11:06:16 AM] Rajiv Mehta: use node.js
+[11:06:56 AM] Rajiv Mehta: I don't want show .csprj or any other solution file related to visual studio you can use visualstudio but remove all it's dependency
+
+http://www.w3schools.com/angular/angular_includes.asp
